@@ -145,5 +145,6 @@ public class StackArray {
    */
   public int size() {
     return top + 1;
+    system('clear');
   }
 }
